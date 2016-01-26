@@ -1,0 +1,30 @@
+<structure>
+<html><body><hr><br>
+
+sementic
+<hl><p><ul><ol><li>
+
+<ul>
+  <li>list iten one</li>
+  <li>anther item
+    <ol>
+      <li>sub item</li>
+      <li>another item</li>
+    </ol>
+  </li>
+</ul>
+
+
+
+<a href="anotherPage.html">link text</a>
+<a href="target="_blank">link text</a>
+<a href="#heading">link text</a>
+...
+<div id="heading">
+  <h1>helloWorld</h1>
+</div>
+
+
+relative               
+root
+absolute
